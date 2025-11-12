@@ -14,6 +14,11 @@ It visually demonstrates how mathematics and programming combine to secure infor
 
 ---
 
+## 🌐 Try It Online 
+🚀 Launch the app instantly on Streamlit: https://hill-cipher-encryption-fynvigr5dd4mxxyub54bta.streamlit.app/
+
+---
+
 ## ✨ Features
 ✅ Encrypt & decrypt text in real-time  
 ✅ Interactive **Streamlit** web interface  
@@ -24,7 +29,7 @@ It visually demonstrates how mathematics and programming combine to secure infor
 ---
 
 ## 🏗️ Project Structure
-<img width="991" height="353" alt="image" src="https://github.com/user-attachments/assets/ae0ea806-7f74-45b4-8703-9952b6c9c49b" />
+<img width="500" height="353" alt="image" src="https://github.com/user-attachments/assets/ae0ea806-7f74-45b4-8703-9952b6c9c49b" />
 
 
 ---
@@ -39,11 +44,23 @@ It visually demonstrates how mathematics and programming combine to secure infor
 
 ---
 
+## 🖼️ App Preview
+<img width="750" height="500" alt="image" src="https://github.com/user-attachments/assets/75a2112b-20b7-4e4f-b431-0c48f97013c3" />
+
+### Encrypt Mode	
+<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/eddaeb6b-b144-4d85-aea7-bf6b187a2c59" />
+
+### Decrypt Mode
+<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/9ecca7b2-90b8-4b93-b478-b8458b0fc2fe" />
+
+
+---
 ## ⚙️ Setup Instructions
 
 ### 🧩 Step 1: Clone the Repository
 
 git clone https://github.com/Ishika-guptaa25/Hill-Cipher-Encryption.git
+
 cd Hill-Cipher-Encryption
 
 ### 🧩 Step 2: Install Dependencies
@@ -78,24 +95,7 @@ If the key matrix is invertible mod 26 → encryption & decryption both work suc
 Input (Plain Text): HELLO
 Key Matrix: [[3, 3], [2, 5]]
 Encrypted Text: HIOZHN
-Decrypted Text: HELLOX
-
----
-
-## 🖼️ App Preview
-<img width="750" height="500" alt="image" src="https://github.com/user-attachments/assets/75a2112b-20b7-4e4f-b431-0c48f97013c3" />
-
-### Encrypt Mode	
-<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/eddaeb6b-b144-4d85-aea7-bf6b187a2c59" />
-
-### Decrypt Mode
-<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/9ecca7b2-90b8-4b93-b478-b8458b0fc2fe" />
-
-
----
-
-## 🌐 Try It Online 
-🚀 Launch the app instantly on Streamlit: https://hill-cipher-encryption-fynvigr5dd4mxxyub54bta.streamlit.app/
+Decrypted Text: RUOHCU
 
 ---
 
